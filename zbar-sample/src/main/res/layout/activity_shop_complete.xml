@@ -62,6 +62,7 @@
         android:layout_weight="1"
         android:paddingLeft="20dip"
         android:paddingRight="20dip"
+        android:src="@drawable/line"
         app:srcCompat="@drawable/line" />
 
     <Space
